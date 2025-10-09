@@ -1,0 +1,1766 @@
+Beginning Hyperparameter Test
+
+Testing 1/252
+Learning Rate: 0.0001
+Batch Size: 8
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0001, bs=8, ne=5): 61.62%
+
+Testing 2/252
+Learning Rate: 0.0001
+Batch Size: 8
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0001, bs=8, ne=10): 68.49%
+
+Testing 3/252
+Learning Rate: 0.0001
+Batch Size: 8
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0001, bs=8, ne=20): 70.50%
+
+Testing 4/252
+Learning Rate: 0.0001
+Batch Size: 8
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0001, bs=8, ne=35): 71.82%
+
+Testing 5/252
+Learning Rate: 0.0001
+Batch Size: 8
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0001, bs=8, ne=50): 71.39%
+
+Testing 6/252
+Learning Rate: 0.0001
+Batch Size: 8
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0001, bs=8, ne=100): 71.30%
+
+Testing 7/252
+Learning Rate: 0.0001
+Batch Size: 16
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0001, bs=16, ne=5): 60.04%
+
+Testing 8/252
+Learning Rate: 0.0001
+Batch Size: 16
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0001, bs=16, ne=10): 64.17%
+
+Testing 9/252
+Learning Rate: 0.0001
+Batch Size: 16
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0001, bs=16, ne=20): 70.37%
+
+Testing 10/252
+Learning Rate: 0.0001
+Batch Size: 16
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0001, bs=16, ne=35): 71.95%
+
+Testing 11/252
+Learning Rate: 0.0001
+Batch Size: 16
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0001, bs=16, ne=50): 71.61%
+
+Testing 12/252
+Learning Rate: 0.0001
+Batch Size: 16
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0001, bs=16, ne=100): 70.63%
+
+Testing 13/252
+Learning Rate: 0.0001
+Batch Size: 32
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0001, bs=32, ne=5): 58.48%
+
+Testing 14/252
+Learning Rate: 0.0001
+Batch Size: 32
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0001, bs=32, ne=10): 63.35%
+
+Testing 15/252
+Learning Rate: 0.0001
+Batch Size: 32
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0001, bs=32, ne=20): 67.12%
+
+Testing 16/252
+Learning Rate: 0.0001
+Batch Size: 32
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0001, bs=32, ne=35): 71.26%
+
+Testing 17/252
+Learning Rate: 0.0001
+Batch Size: 32
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0001, bs=32, ne=50): 71.32%
+
+Testing 18/252
+Learning Rate: 0.0001
+Batch Size: 32
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0001, bs=32, ne=100): 70.73%
+
+Testing 19/252
+Learning Rate: 0.0001
+Batch Size: 64
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0001, bs=64, ne=5): 53.88%
+
+Testing 20/252
+Learning Rate: 0.0001
+Batch Size: 64
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0001, bs=64, ne=10): 59.54%
+
+Testing 21/252
+Learning Rate: 0.0001
+Batch Size: 64
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0001, bs=64, ne=20): 65.77%
+
+Testing 22/252
+Learning Rate: 0.0001
+Batch Size: 64
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0001, bs=64, ne=35): 69.22%
+
+Testing 23/252
+Learning Rate: 0.0001
+Batch Size: 64
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0001, bs=64, ne=50): 70.41%
+
+Testing 24/252
+Learning Rate: 0.0001
+Batch Size: 64
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0001, bs=64, ne=100): 71.42%
+
+Testing 25/252
+Learning Rate: 0.0001
+Batch Size: 128
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0001, bs=128, ne=5): 53.66%
+
+Testing 26/252
+Learning Rate: 0.0001
+Batch Size: 128
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0001, bs=128, ne=10): 58.28%
+
+Testing 27/252
+Learning Rate: 0.0001
+Batch Size: 128
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0001, bs=128, ne=20): 63.70%
+
+Testing 28/252
+Learning Rate: 0.0001
+Batch Size: 128
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0001, bs=128, ne=35): 67.11%
+
+Testing 29/252
+Learning Rate: 0.0001
+Batch Size: 128
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0001, bs=128, ne=50): 70.42%
+
+Testing 30/252
+Learning Rate: 0.0001
+Batch Size: 128
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0001, bs=128, ne=100): 70.46%
+
+Testing 31/252
+Learning Rate: 0.0001
+Batch Size: 256
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0001, bs=256, ne=5): 51.06%
+
+Testing 32/252
+Learning Rate: 0.0001
+Batch Size: 256
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0001, bs=256, ne=10): 55.56%
+
+Testing 33/252
+Learning Rate: 0.0001
+Batch Size: 256
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0001, bs=256, ne=20): 60.62%
+
+Testing 34/252
+Learning Rate: 0.0001
+Batch Size: 256
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0001, bs=256, ne=35): 64.30%
+
+Testing 35/252
+Learning Rate: 0.0001
+Batch Size: 256
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0001, bs=256, ne=50): 68.63%
+
+Testing 36/252
+Learning Rate: 0.0001
+Batch Size: 256
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0001, bs=256, ne=100): 69.68%
+
+Testing 37/252
+Learning Rate: 0.0005
+Batch Size: 8
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0005, bs=8, ne=5): 67.86%
+
+Testing 38/252
+Learning Rate: 0.0005
+Batch Size: 8
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0005, bs=8, ne=10): 71.45%
+
+Testing 39/252
+Learning Rate: 0.0005
+Batch Size: 8
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0005, bs=8, ne=20): 70.60%
+
+Testing 40/252
+Learning Rate: 0.0005
+Batch Size: 8
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0005, bs=8, ne=35): 71.27%
+
+Testing 41/252
+Learning Rate: 0.0005
+Batch Size: 8
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0005, bs=8, ne=50): 70.83%
+
+Testing 42/252
+Learning Rate: 0.0005
+Batch Size: 8
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0005, bs=8, ne=100): 71.12%
+
+Testing 43/252
+Learning Rate: 0.0005
+Batch Size: 16
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0005, bs=16, ne=5): 67.60%
+
+Testing 44/252
+Learning Rate: 0.0005
+Batch Size: 16
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0005, bs=16, ne=10): 71.38%
+
+Testing 45/252
+Learning Rate: 0.0005
+Batch Size: 16
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0005, bs=16, ne=20): 70.82%
+
+Testing 46/252
+Learning Rate: 0.0005
+Batch Size: 16
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0005, bs=16, ne=35): 71.89%
+
+Testing 47/252
+Learning Rate: 0.0005
+Batch Size: 16
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0005, bs=16, ne=50): 71.73%
+
+Testing 48/252
+Learning Rate: 0.0005
+Batch Size: 16
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0005, bs=16, ne=100): 72.15%
+
+Testing 49/252
+Learning Rate: 0.0005
+Batch Size: 32
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0005, bs=32, ne=5): 66.84%
+
+Testing 50/252
+Learning Rate: 0.0005
+Batch Size: 32
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0005, bs=32, ne=10): 71.41%
+
+Testing 51/252
+Learning Rate: 0.0005
+Batch Size: 32
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0005, bs=32, ne=20): 72.45%
+
+Testing 52/252
+Learning Rate: 0.0005
+Batch Size: 32
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0005, bs=32, ne=35): 72.64%
+
+Testing 53/252
+Learning Rate: 0.0005
+Batch Size: 32
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0005, bs=32, ne=50): 72.21%
+
+Testing 54/252
+Learning Rate: 0.0005
+Batch Size: 32
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0005, bs=32, ne=100): 70.42%
+
+Testing 55/252
+Learning Rate: 0.0005
+Batch Size: 64
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0005, bs=64, ne=5): 65.05%
+
+Testing 56/252
+Learning Rate: 0.0005
+Batch Size: 64
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0005, bs=64, ne=10): 69.79%
+
+Testing 57/252
+Learning Rate: 0.0005
+Batch Size: 64
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0005, bs=64, ne=20): 72.19%
+
+Testing 58/252
+Learning Rate: 0.0005
+Batch Size: 64
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0005, bs=64, ne=35): 71.79%
+
+Testing 59/252
+Learning Rate: 0.0005
+Batch Size: 64
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0005, bs=64, ne=50): 71.96%
+
+Testing 60/252
+Learning Rate: 0.0005
+Batch Size: 64
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0005, bs=64, ne=100): 71.28%
+
+Testing 61/252
+Learning Rate: 0.0005
+Batch Size: 128
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0005, bs=128, ne=5): 63.81%
+
+Testing 62/252
+Learning Rate: 0.0005
+Batch Size: 128
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0005, bs=128, ne=10): 68.21%
+
+Testing 63/252
+Learning Rate: 0.0005
+Batch Size: 128
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0005, bs=128, ne=20): 71.21%
+
+Testing 64/252
+Learning Rate: 0.0005
+Batch Size: 128
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0005, bs=128, ne=35): 72.76%
+
+Testing 65/252
+Learning Rate: 0.0005
+Batch Size: 128
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0005, bs=128, ne=50): 71.95%
+
+Testing 66/252
+Learning Rate: 0.0005
+Batch Size: 128
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0005, bs=128, ne=100): 71.86%
+
+Testing 67/252
+Learning Rate: 0.0005
+Batch Size: 256
+Number of Epochs: 5
+
+Test Accuracy (lr=0.0005, bs=256, ne=5): 59.92%
+
+Testing 68/252
+Learning Rate: 0.0005
+Batch Size: 256
+Number of Epochs: 10
+
+Test Accuracy (lr=0.0005, bs=256, ne=10): 66.79%
+
+Testing 69/252
+Learning Rate: 0.0005
+Batch Size: 256
+Number of Epochs: 20
+
+Test Accuracy (lr=0.0005, bs=256, ne=20): 70.21%
+
+Testing 70/252
+Learning Rate: 0.0005
+Batch Size: 256
+Number of Epochs: 35
+
+Test Accuracy (lr=0.0005, bs=256, ne=35): 71.14%
+
+Testing 71/252
+Learning Rate: 0.0005
+Batch Size: 256
+Number of Epochs: 50
+
+Test Accuracy (lr=0.0005, bs=256, ne=50): 71.29%
+
+Testing 72/252
+Learning Rate: 0.0005
+Batch Size: 256
+Number of Epochs: 100
+
+Test Accuracy (lr=0.0005, bs=256, ne=100): 72.35%
+
+Testing 73/252
+Learning Rate: 0.001
+Batch Size: 8
+Number of Epochs: 5
+
+Test Accuracy (lr=0.001, bs=8, ne=5): 67.77%
+
+Testing 74/252
+Learning Rate: 0.001
+Batch Size: 8
+Number of Epochs: 10
+
+Test Accuracy (lr=0.001, bs=8, ne=10): 68.44%
+
+Testing 75/252
+Learning Rate: 0.001
+Batch Size: 8
+Number of Epochs: 20
+
+Test Accuracy (lr=0.001, bs=8, ne=20): 69.82%
+
+Testing 76/252
+Learning Rate: 0.001
+Batch Size: 8
+Number of Epochs: 35
+
+Test Accuracy (lr=0.001, bs=8, ne=35): 68.17%
+
+Testing 77/252
+Learning Rate: 0.001
+Batch Size: 8
+Number of Epochs: 50
+
+Test Accuracy (lr=0.001, bs=8, ne=50): 66.87%
+
+Testing 78/252
+Learning Rate: 0.001
+Batch Size: 8
+Number of Epochs: 100
+
+Test Accuracy (lr=0.001, bs=8, ne=100): 69.00%
+
+Testing 79/252
+Learning Rate: 0.001
+Batch Size: 16
+Number of Epochs: 5
+
+Test Accuracy (lr=0.001, bs=16, ne=5): 68.98%
+
+Testing 80/252
+Learning Rate: 0.001
+Batch Size: 16
+Number of Epochs: 10
+
+Test Accuracy (lr=0.001, bs=16, ne=10): 70.14%
+
+Testing 81/252
+Learning Rate: 0.001
+Batch Size: 16
+Number of Epochs: 20
+
+Test Accuracy (lr=0.001, bs=16, ne=20): 70.49%
+
+Testing 82/252
+Learning Rate: 0.001
+Batch Size: 16
+Number of Epochs: 35
+
+Test Accuracy (lr=0.001, bs=16, ne=35): 71.03%
+
+Testing 83/252
+Learning Rate: 0.001
+Batch Size: 16
+Number of Epochs: 50
+
+Test Accuracy (lr=0.001, bs=16, ne=50): 70.65%
+
+Testing 84/252
+Learning Rate: 0.001
+Batch Size: 16
+Number of Epochs: 100
+
+Test Accuracy (lr=0.001, bs=16, ne=100): 70.18%
+
+Testing 85/252
+Learning Rate: 0.001
+Batch Size: 32
+Number of Epochs: 5
+
+Test Accuracy (lr=0.001, bs=32, ne=5): 67.62%
+
+Testing 86/252
+Learning Rate: 0.001
+Batch Size: 32
+Number of Epochs: 10
+
+Test Accuracy (lr=0.001, bs=32, ne=10): 72.50%
+
+Testing 87/252
+Learning Rate: 0.001
+Batch Size: 32
+Number of Epochs: 20
+
+Test Accuracy (lr=0.001, bs=32, ne=20): 71.02%
+
+Testing 88/252
+Learning Rate: 0.001
+Batch Size: 32
+Number of Epochs: 35
+
+Test Accuracy (lr=0.001, bs=32, ne=35): 70.58%
+
+Testing 89/252
+Learning Rate: 0.001
+Batch Size: 32
+Number of Epochs: 50
+
+Test Accuracy (lr=0.001, bs=32, ne=50): 70.54%
+
+Testing 90/252
+Learning Rate: 0.001
+Batch Size: 32
+Number of Epochs: 100
+
+Test Accuracy (lr=0.001, bs=32, ne=100): 70.76%
+
+Testing 91/252
+Learning Rate: 0.001
+Batch Size: 64
+Number of Epochs: 5
+
+Test Accuracy (lr=0.001, bs=64, ne=5): 68.46%
+
+Testing 92/252
+Learning Rate: 0.001
+Batch Size: 64
+Number of Epochs: 10
+
+Test Accuracy (lr=0.001, bs=64, ne=10): 70.26%
+
+Testing 93/252
+Learning Rate: 0.001
+Batch Size: 64
+Number of Epochs: 20
+
+Test Accuracy (lr=0.001, bs=64, ne=20): 71.37%
+
+Testing 94/252
+Learning Rate: 0.001
+Batch Size: 64
+Number of Epochs: 35
+
+Test Accuracy (lr=0.001, bs=64, ne=35): 71.41%
+
+Testing 95/252
+Learning Rate: 0.001
+Batch Size: 64
+Number of Epochs: 50
+
+Test Accuracy (lr=0.001, bs=64, ne=50): 70.51%
+
+Testing 96/252
+Learning Rate: 0.001
+Batch Size: 64
+Number of Epochs: 100
+
+Test Accuracy (lr=0.001, bs=64, ne=100): 70.40%
+
+Testing 97/252
+Learning Rate: 0.001
+Batch Size: 128
+Number of Epochs: 5
+
+Test Accuracy (lr=0.001, bs=128, ne=5): 66.90%
+
+Testing 98/252
+Learning Rate: 0.001
+Batch Size: 128
+Number of Epochs: 10
+
+Test Accuracy (lr=0.001, bs=128, ne=10): 71.71%
+
+Testing 99/252
+Learning Rate: 0.001
+Batch Size: 128
+Number of Epochs: 20
+
+Test Accuracy (lr=0.001, bs=128, ne=20): 72.30%
+
+Testing 100/252
+Learning Rate: 0.001
+Batch Size: 128
+Number of Epochs: 35
+
+Test Accuracy (lr=0.001, bs=128, ne=35): 71.92%
+
+Testing 101/252
+Learning Rate: 0.001
+Batch Size: 128
+Number of Epochs: 50
+
+Test Accuracy (lr=0.001, bs=128, ne=50): 71.59%
+
+Testing 102/252
+Learning Rate: 0.001
+Batch Size: 128
+Number of Epochs: 100
+
+Test Accuracy (lr=0.001, bs=128, ne=100): 71.19%
+
+Testing 103/252
+Learning Rate: 0.001
+Batch Size: 256
+Number of Epochs: 5
+
+Test Accuracy (lr=0.001, bs=256, ne=5): 65.50%
+
+Testing 104/252
+Learning Rate: 0.001
+Batch Size: 256
+Number of Epochs: 10
+
+Test Accuracy (lr=0.001, bs=256, ne=10): 69.77%
+
+Testing 105/252
+Learning Rate: 0.001
+Batch Size: 256
+Number of Epochs: 20
+
+Test Accuracy (lr=0.001, bs=256, ne=20): 72.29%
+
+Testing 106/252
+Learning Rate: 0.001
+Batch Size: 256
+Number of Epochs: 35
+
+Test Accuracy (lr=0.001, bs=256, ne=35): 72.14%
+
+Testing 107/252
+Learning Rate: 0.001
+Batch Size: 256
+Number of Epochs: 50
+
+Test Accuracy (lr=0.001, bs=256, ne=50): 71.08%
+
+Testing 108/252
+Learning Rate: 0.001
+Batch Size: 256
+Number of Epochs: 100
+
+Test Accuracy (lr=0.001, bs=256, ne=100): 71.51%
+
+Testing 109/252
+Learning Rate: 0.005
+Batch Size: 8
+Number of Epochs: 5
+
+Test Accuracy (lr=0.005, bs=8, ne=5): 42.47%
+
+Testing 110/252
+Learning Rate: 0.005
+Batch Size: 8
+Number of Epochs: 10
+
+Test Accuracy (lr=0.005, bs=8, ne=10): 10.00%
+
+Testing 111/252
+Learning Rate: 0.005
+Batch Size: 8
+Number of Epochs: 20
+
+Test Accuracy (lr=0.005, bs=8, ne=20): 42.88%
+
+Testing 112/252
+Learning Rate: 0.005
+Batch Size: 8
+Number of Epochs: 35
+
+Test Accuracy (lr=0.005, bs=8, ne=35): 44.27%
+
+Testing 113/252
+Learning Rate: 0.005
+Batch Size: 8
+Number of Epochs: 50
+
+Test Accuracy (lr=0.005, bs=8, ne=50): 39.78%
+
+Testing 114/252
+Learning Rate: 0.005
+Batch Size: 8
+Number of Epochs: 100
+
+Test Accuracy (lr=0.005, bs=8, ne=100): 40.67%
+
+Testing 115/252
+Learning Rate: 0.005
+Batch Size: 16
+Number of Epochs: 5
+
+Test Accuracy (lr=0.005, bs=16, ne=5): 48.24%
+
+Testing 116/252
+Learning Rate: 0.005
+Batch Size: 16
+Number of Epochs: 10
+
+Test Accuracy (lr=0.005, bs=16, ne=10): 49.07%
+
+Testing 117/252
+Learning Rate: 0.005
+Batch Size: 16
+Number of Epochs: 20
+
+Test Accuracy (lr=0.005, bs=16, ne=20): 10.00%
+
+Testing 118/252
+Learning Rate: 0.005
+Batch Size: 16
+Number of Epochs: 35
+
+Test Accuracy (lr=0.005, bs=16, ne=35): 50.68%
+
+Testing 119/252
+Learning Rate: 0.005
+Batch Size: 16
+Number of Epochs: 50
+
+Test Accuracy (lr=0.005, bs=16, ne=50): 49.72%
+
+Testing 120/252
+Learning Rate: 0.005
+Batch Size: 16
+Number of Epochs: 100
+
+Test Accuracy (lr=0.005, bs=16, ne=100): 51.88%
+
+Testing 121/252
+Learning Rate: 0.005
+Batch Size: 32
+Number of Epochs: 5
+
+Test Accuracy (lr=0.005, bs=32, ne=5): 53.09%
+
+Testing 122/252
+Learning Rate: 0.005
+Batch Size: 32
+Number of Epochs: 10
+
+Test Accuracy (lr=0.005, bs=32, ne=10): 55.99%
+
+Testing 123/252
+Learning Rate: 0.005
+Batch Size: 32
+Number of Epochs: 20
+
+Test Accuracy (lr=0.005, bs=32, ne=20): 56.91%
+
+Testing 124/252
+Learning Rate: 0.005
+Batch Size: 32
+Number of Epochs: 35
+
+Test Accuracy (lr=0.005, bs=32, ne=35): 54.01%
+
+Testing 125/252
+Learning Rate: 0.005
+Batch Size: 32
+Number of Epochs: 50
+
+Test Accuracy (lr=0.005, bs=32, ne=50): 57.11%
+
+Testing 126/252
+Learning Rate: 0.005
+Batch Size: 32
+Number of Epochs: 100
+
+Test Accuracy (lr=0.005, bs=32, ne=100): 57.54%
+
+Testing 127/252
+Learning Rate: 0.005
+Batch Size: 64
+Number of Epochs: 5
+
+Test Accuracy (lr=0.005, bs=64, ne=5): 58.64%
+
+Testing 128/252
+Learning Rate: 0.005
+Batch Size: 64
+Number of Epochs: 10
+
+Test Accuracy (lr=0.005, bs=64, ne=10): 58.11%
+
+Testing 129/252
+Learning Rate: 0.005
+Batch Size: 64
+Number of Epochs: 20
+
+Test Accuracy (lr=0.005, bs=64, ne=20): 59.43%
+
+Testing 130/252
+Learning Rate: 0.005
+Batch Size: 64
+Number of Epochs: 35
+
+Test Accuracy (lr=0.005, bs=64, ne=35): 59.40%
+
+Testing 131/252
+Learning Rate: 0.005
+Batch Size: 64
+Number of Epochs: 50
+
+Test Accuracy (lr=0.005, bs=64, ne=50): 61.45%
+
+Testing 132/252
+Learning Rate: 0.005
+Batch Size: 64
+Number of Epochs: 100
+
+Test Accuracy (lr=0.005, bs=64, ne=100): 58.02%
+
+Testing 133/252
+Learning Rate: 0.005
+Batch Size: 128
+Number of Epochs: 5
+
+Test Accuracy (lr=0.005, bs=128, ne=5): 10.00%
+
+Testing 134/252
+Learning Rate: 0.005
+Batch Size: 128
+Number of Epochs: 10
+
+Test Accuracy (lr=0.005, bs=128, ne=10): 59.45%
+
+Testing 135/252
+Learning Rate: 0.005
+Batch Size: 128
+Number of Epochs: 20
+
+Test Accuracy (lr=0.005, bs=128, ne=20): 56.44%
+
+Testing 136/252
+Learning Rate: 0.005
+Batch Size: 128
+Number of Epochs: 35
+
+Test Accuracy (lr=0.005, bs=128, ne=35): 65.62%
+
+Testing 137/252
+Learning Rate: 0.005
+Batch Size: 128
+Number of Epochs: 50
+
+Test Accuracy (lr=0.005, bs=128, ne=50): 65.91%
+
+Testing 138/252
+Learning Rate: 0.005
+Batch Size: 128
+Number of Epochs: 100
+
+Test Accuracy (lr=0.005, bs=128, ne=100): 63.21%
+
+Testing 139/252
+Learning Rate: 0.005
+Batch Size: 256
+Number of Epochs: 5
+
+Test Accuracy (lr=0.005, bs=256, ne=5): 61.69%
+
+Testing 140/252
+Learning Rate: 0.005
+Batch Size: 256
+Number of Epochs: 10
+
+Test Accuracy (lr=0.005, bs=256, ne=10): 64.79%
+
+Testing 141/252
+Learning Rate: 0.005
+Batch Size: 256
+Number of Epochs: 20
+
+Test Accuracy (lr=0.005, bs=256, ne=20): 63.28%
+
+Testing 142/252
+Learning Rate: 0.005
+Batch Size: 256
+Number of Epochs: 35
+
+Test Accuracy (lr=0.005, bs=256, ne=35): 66.05%
+
+Testing 143/252
+Learning Rate: 0.005
+Batch Size: 256
+Number of Epochs: 50
+
+Test Accuracy (lr=0.005, bs=256, ne=50): 10.00%
+
+Testing 144/252
+Learning Rate: 0.005
+Batch Size: 256
+Number of Epochs: 100
+
+Test Accuracy (lr=0.005, bs=256, ne=100): 64.20%
+
+Testing 145/252
+Learning Rate: 0.01
+Batch Size: 8
+Number of Epochs: 5
+
+Test Accuracy (lr=0.01, bs=8, ne=5): 10.00%
+
+Testing 146/252
+Learning Rate: 0.01
+Batch Size: 8
+Number of Epochs: 10
+
+Test Accuracy (lr=0.01, bs=8, ne=10): 10.00%
+
+Testing 147/252
+Learning Rate: 0.01
+Batch Size: 8
+Number of Epochs: 20
+
+Test Accuracy (lr=0.01, bs=8, ne=20): 10.00%
+
+Testing 148/252
+Learning Rate: 0.01
+Batch Size: 8
+Number of Epochs: 35
+
+Test Accuracy (lr=0.01, bs=8, ne=35): 10.00%
+
+Testing 149/252
+Learning Rate: 0.01
+Batch Size: 8
+Number of Epochs: 50
+
+Test Accuracy (lr=0.01, bs=8, ne=50): 10.00%
+
+Testing 150/252
+Learning Rate: 0.01
+Batch Size: 8
+Number of Epochs: 100
+
+Test Accuracy (lr=0.01, bs=8, ne=100): 10.00%
+
+Testing 151/252
+Learning Rate: 0.01
+Batch Size: 16
+Number of Epochs: 5
+
+Test Accuracy (lr=0.01, bs=16, ne=5): 10.00%
+
+Testing 152/252
+Learning Rate: 0.01
+Batch Size: 16
+Number of Epochs: 10
+
+Test Accuracy (lr=0.01, bs=16, ne=10): 10.00%
+
+Testing 153/252
+Learning Rate: 0.01
+Batch Size: 16
+Number of Epochs: 20
+
+Test Accuracy (lr=0.01, bs=16, ne=20): 10.00%
+
+Testing 154/252
+Learning Rate: 0.01
+Batch Size: 16
+Number of Epochs: 35
+
+Test Accuracy (lr=0.01, bs=16, ne=35): 10.00%
+
+Testing 155/252
+Learning Rate: 0.01
+Batch Size: 16
+Number of Epochs: 50
+
+Test Accuracy (lr=0.01, bs=16, ne=50): 10.00%
+
+Testing 156/252
+Learning Rate: 0.01
+Batch Size: 16
+Number of Epochs: 100
+
+Test Accuracy (lr=0.01, bs=16, ne=100): 10.00%
+
+Testing 157/252
+Learning Rate: 0.01
+Batch Size: 32
+Number of Epochs: 5
+
+Test Accuracy (lr=0.01, bs=32, ne=5): 10.00%
+
+Testing 158/252
+Learning Rate: 0.01
+Batch Size: 32
+Number of Epochs: 10
+
+Test Accuracy (lr=0.01, bs=32, ne=10): 10.00%
+
+Testing 159/252
+Learning Rate: 0.01
+Batch Size: 32
+Number of Epochs: 20
+
+Test Accuracy (lr=0.01, bs=32, ne=20): 39.24%
+
+Testing 160/252
+Learning Rate: 0.01
+Batch Size: 32
+Number of Epochs: 35
+
+Test Accuracy (lr=0.01, bs=32, ne=35): 39.06%
+
+Testing 161/252
+Learning Rate: 0.01
+Batch Size: 32
+Number of Epochs: 50
+
+Test Accuracy (lr=0.01, bs=32, ne=50): 10.00%
+
+Testing 162/252
+Learning Rate: 0.01
+Batch Size: 32
+Number of Epochs: 100
+
+Test Accuracy (lr=0.01, bs=32, ne=100): 41.19%
+
+Testing 163/252
+Learning Rate: 0.01
+Batch Size: 64
+Number of Epochs: 5
+
+Test Accuracy (lr=0.01, bs=64, ne=5): 39.62%
+
+Testing 164/252
+Learning Rate: 0.01
+Batch Size: 64
+Number of Epochs: 10
+
+Test Accuracy (lr=0.01, bs=64, ne=10): 10.00%
+
+Testing 165/252
+Learning Rate: 0.01
+Batch Size: 64
+Number of Epochs: 20
+
+Test Accuracy (lr=0.01, bs=64, ne=20): 36.72%
+
+Testing 166/252
+Learning Rate: 0.01
+Batch Size: 64
+Number of Epochs: 35
+
+Test Accuracy (lr=0.01, bs=64, ne=35): 48.16%
+
+Testing 167/252
+Learning Rate: 0.01
+Batch Size: 64
+Number of Epochs: 50
+
+Test Accuracy (lr=0.01, bs=64, ne=50): 10.00%
+
+Testing 168/252
+Learning Rate: 0.01
+Batch Size: 64
+Number of Epochs: 100
+
+Test Accuracy (lr=0.01, bs=64, ne=100): 10.00%
+
+Testing 169/252
+Learning Rate: 0.01
+Batch Size: 128
+Number of Epochs: 5
+
+Test Accuracy (lr=0.01, bs=128, ne=5): 45.50%
+
+Testing 170/252
+Learning Rate: 0.01
+Batch Size: 128
+Number of Epochs: 10
+
+Test Accuracy (lr=0.01, bs=128, ne=10): 38.35%
+
+Testing 171/252
+Learning Rate: 0.01
+Batch Size: 128
+Number of Epochs: 20
+
+Test Accuracy (lr=0.01, bs=128, ne=20): 10.00%
+
+Testing 172/252
+Learning Rate: 0.01
+Batch Size: 128
+Number of Epochs: 35
+
+Test Accuracy (lr=0.01, bs=128, ne=35): 40.23%
+
+Testing 173/252
+Learning Rate: 0.01
+Batch Size: 128
+Number of Epochs: 50
+
+Test Accuracy (lr=0.01, bs=128, ne=50): 41.59%
+
+Testing 174/252
+Learning Rate: 0.01
+Batch Size: 128
+Number of Epochs: 100
+
+Test Accuracy (lr=0.01, bs=128, ne=100): 53.21%
+
+Testing 175/252
+Learning Rate: 0.01
+Batch Size: 256
+Number of Epochs: 5
+
+Test Accuracy (lr=0.01, bs=256, ne=5): 41.30%
+
+Testing 176/252
+Learning Rate: 0.01
+Batch Size: 256
+Number of Epochs: 10
+
+Test Accuracy (lr=0.01, bs=256, ne=10): 10.00%
+
+Testing 177/252
+Learning Rate: 0.01
+Batch Size: 256
+Number of Epochs: 20
+
+Test Accuracy (lr=0.01, bs=256, ne=20): 10.00%
+
+Testing 178/252
+Learning Rate: 0.01
+Batch Size: 256
+Number of Epochs: 35
+
+Test Accuracy (lr=0.01, bs=256, ne=35): 10.00%
+
+Testing 179/252
+Learning Rate: 0.01
+Batch Size: 256
+Number of Epochs: 50
+
+Test Accuracy (lr=0.01, bs=256, ne=50): 46.76%
+
+Testing 180/252
+Learning Rate: 0.01
+Batch Size: 256
+Number of Epochs: 100
+
+Test Accuracy (lr=0.01, bs=256, ne=100): 46.03%
+
+Testing 181/252
+Learning Rate: 0.05
+Batch Size: 8
+Number of Epochs: 5
+
+Test Accuracy (lr=0.05, bs=8, ne=5): 10.00%
+
+Testing 182/252
+Learning Rate: 0.05
+Batch Size: 8
+Number of Epochs: 10
+
+Test Accuracy (lr=0.05, bs=8, ne=10): 10.00%
+
+Testing 183/252
+Learning Rate: 0.05
+Batch Size: 8
+Number of Epochs: 20
+
+Test Accuracy (lr=0.05, bs=8, ne=20): 10.00%
+
+Testing 184/252
+Learning Rate: 0.05
+Batch Size: 8
+Number of Epochs: 35
+
+Test Accuracy (lr=0.05, bs=8, ne=35): 10.00%
+
+Testing 185/252
+Learning Rate: 0.05
+Batch Size: 8
+Number of Epochs: 50
+
+Test Accuracy (lr=0.05, bs=8, ne=50): 10.00%
+
+Testing 186/252
+Learning Rate: 0.05
+Batch Size: 8
+Number of Epochs: 100
+
+Test Accuracy (lr=0.05, bs=8, ne=100): 10.00%
+
+Testing 187/252
+Learning Rate: 0.05
+Batch Size: 16
+Number of Epochs: 5
+
+Test Accuracy (lr=0.05, bs=16, ne=5): 10.00%
+
+Testing 188/252
+Learning Rate: 0.05
+Batch Size: 16
+Number of Epochs: 10
+
+Test Accuracy (lr=0.05, bs=16, ne=10): 10.00%
+
+Testing 189/252
+Learning Rate: 0.05
+Batch Size: 16
+Number of Epochs: 20
+
+Test Accuracy (lr=0.05, bs=16, ne=20): 10.00%
+
+Testing 190/252
+Learning Rate: 0.05
+Batch Size: 16
+Number of Epochs: 35
+
+Test Accuracy (lr=0.05, bs=16, ne=35): 10.00%
+
+Testing 191/252
+Learning Rate: 0.05
+Batch Size: 16
+Number of Epochs: 50
+
+Test Accuracy (lr=0.05, bs=16, ne=50): 10.00%
+
+Testing 192/252
+Learning Rate: 0.05
+Batch Size: 16
+Number of Epochs: 100
+
+Test Accuracy (lr=0.05, bs=16, ne=100): 10.00%
+
+Testing 193/252
+Learning Rate: 0.05
+Batch Size: 32
+Number of Epochs: 5
+
+Test Accuracy (lr=0.05, bs=32, ne=5): 10.00%
+
+Testing 194/252
+Learning Rate: 0.05
+Batch Size: 32
+Number of Epochs: 10
+
+Test Accuracy (lr=0.05, bs=32, ne=10): 10.00%
+
+Testing 195/252
+Learning Rate: 0.05
+Batch Size: 32
+Number of Epochs: 20
+
+Test Accuracy (lr=0.05, bs=32, ne=20): 10.00%
+
+Testing 196/252
+Learning Rate: 0.05
+Batch Size: 32
+Number of Epochs: 35
+
+Test Accuracy (lr=0.05, bs=32, ne=35): 10.00%
+
+Testing 197/252
+Learning Rate: 0.05
+Batch Size: 32
+Number of Epochs: 50
+
+Test Accuracy (lr=0.05, bs=32, ne=50): 10.00%
+
+Testing 198/252
+Learning Rate: 0.05
+Batch Size: 32
+Number of Epochs: 100
+
+Test Accuracy (lr=0.05, bs=32, ne=100): 10.00%
+
+Testing 199/252
+Learning Rate: 0.05
+Batch Size: 64
+Number of Epochs: 5
+
+Test Accuracy (lr=0.05, bs=64, ne=5): 10.00%
+
+Testing 200/252
+Learning Rate: 0.05
+Batch Size: 64
+Number of Epochs: 10
+
+Test Accuracy (lr=0.05, bs=64, ne=10): 10.00%
+
+Testing 201/252
+Learning Rate: 0.05
+Batch Size: 64
+Number of Epochs: 20
+
+Test Accuracy (lr=0.05, bs=64, ne=20): 10.00%
+
+Testing 202/252
+Learning Rate: 0.05
+Batch Size: 64
+Number of Epochs: 35
+
+Test Accuracy (lr=0.05, bs=64, ne=35): 10.00%
+
+Testing 203/252
+Learning Rate: 0.05
+Batch Size: 64
+Number of Epochs: 50
+
+Test Accuracy (lr=0.05, bs=64, ne=50): 10.00%
+
+Testing 204/252
+Learning Rate: 0.05
+Batch Size: 64
+Number of Epochs: 100
+
+Test Accuracy (lr=0.05, bs=64, ne=100): 10.00%
+
+Testing 205/252
+Learning Rate: 0.05
+Batch Size: 128
+Number of Epochs: 5
+
+Test Accuracy (lr=0.05, bs=128, ne=5): 10.00%
+
+Testing 206/252
+Learning Rate: 0.05
+Batch Size: 128
+Number of Epochs: 10
+
+Test Accuracy (lr=0.05, bs=128, ne=10): 10.00%
+
+Testing 207/252
+Learning Rate: 0.05
+Batch Size: 128
+Number of Epochs: 20
+
+Test Accuracy (lr=0.05, bs=128, ne=20): 10.00%
+
+Testing 208/252
+Learning Rate: 0.05
+Batch Size: 128
+Number of Epochs: 35
+
+Test Accuracy (lr=0.05, bs=128, ne=35): 10.00%
+
+Testing 209/252
+Learning Rate: 0.05
+Batch Size: 128
+Number of Epochs: 50
+
+Test Accuracy (lr=0.05, bs=128, ne=50): 10.00%
+
+Testing 210/252
+Learning Rate: 0.05
+Batch Size: 128
+Number of Epochs: 100
+
+Test Accuracy (lr=0.05, bs=128, ne=100): 10.00%
+
+Testing 211/252
+Learning Rate: 0.05
+Batch Size: 256
+Number of Epochs: 5
+
+Test Accuracy (lr=0.05, bs=256, ne=5): 10.00%
+
+Testing 212/252
+Learning Rate: 0.05
+Batch Size: 256
+Number of Epochs: 10
+
+Test Accuracy (lr=0.05, bs=256, ne=10): 10.00%
+
+Testing 213/252
+Learning Rate: 0.05
+Batch Size: 256
+Number of Epochs: 20
+
+Test Accuracy (lr=0.05, bs=256, ne=20): 10.00%
+
+Testing 214/252
+Learning Rate: 0.05
+Batch Size: 256
+Number of Epochs: 35
+
+Test Accuracy (lr=0.05, bs=256, ne=35): 10.00%
+
+Testing 215/252
+Learning Rate: 0.05
+Batch Size: 256
+Number of Epochs: 50
+
+Test Accuracy (lr=0.05, bs=256, ne=50): 10.00%
+
+Testing 216/252
+Learning Rate: 0.05
+Batch Size: 256
+Number of Epochs: 100
+
+Test Accuracy (lr=0.05, bs=256, ne=100): 10.00%
+
+Testing 217/252
+Learning Rate: 0.1
+Batch Size: 8
+Number of Epochs: 5
+
+Test Accuracy (lr=0.1, bs=8, ne=5): 10.00%
+
+Testing 218/252
+Learning Rate: 0.1
+Batch Size: 8
+Number of Epochs: 10
+
+Test Accuracy (lr=0.1, bs=8, ne=10): 10.00%
+
+Testing 219/252
+Learning Rate: 0.1
+Batch Size: 8
+Number of Epochs: 20
+
+Test Accuracy (lr=0.1, bs=8, ne=20): 10.00%
+
+Testing 220/252
+Learning Rate: 0.1
+Batch Size: 8
+Number of Epochs: 35
+
+Test Accuracy (lr=0.1, bs=8, ne=35): 10.00%
+
+Testing 221/252
+Learning Rate: 0.1
+Batch Size: 8
+Number of Epochs: 50
+
+Test Accuracy (lr=0.1, bs=8, ne=50): 10.00%
+
+Testing 222/252
+Learning Rate: 0.1
+Batch Size: 8
+Number of Epochs: 100
+
+Test Accuracy (lr=0.1, bs=8, ne=100): 10.00%
+
+Testing 223/252
+Learning Rate: 0.1
+Batch Size: 16
+Number of Epochs: 5
+
+Test Accuracy (lr=0.1, bs=16, ne=5): 10.00%
+
+Testing 224/252
+Learning Rate: 0.1
+Batch Size: 16
+Number of Epochs: 10
+
+Test Accuracy (lr=0.1, bs=16, ne=10): 10.00%
+
+Testing 225/252
+Learning Rate: 0.1
+Batch Size: 16
+Number of Epochs: 20
+
+Test Accuracy (lr=0.1, bs=16, ne=20): 10.00%
+
+Testing 226/252
+Learning Rate: 0.1
+Batch Size: 16
+Number of Epochs: 35
+
+Test Accuracy (lr=0.1, bs=16, ne=35): 10.00%
+
+Testing 227/252
+Learning Rate: 0.1
+Batch Size: 16
+Number of Epochs: 50
+
+Test Accuracy (lr=0.1, bs=16, ne=50): 10.00%
+
+Testing 228/252
+Learning Rate: 0.1
+Batch Size: 16
+Number of Epochs: 100
+
+Test Accuracy (lr=0.1, bs=16, ne=100): 10.00%
+
+Testing 229/252
+Learning Rate: 0.1
+Batch Size: 32
+Number of Epochs: 5
+
+Test Accuracy (lr=0.1, bs=32, ne=5): 10.00%
+
+Testing 230/252
+Learning Rate: 0.1
+Batch Size: 32
+Number of Epochs: 10
+
+Test Accuracy (lr=0.1, bs=32, ne=10): 10.00%
+
+Testing 231/252
+Learning Rate: 0.1
+Batch Size: 32
+Number of Epochs: 20
+
+Test Accuracy (lr=0.1, bs=32, ne=20): 10.00%
+
+Testing 232/252
+Learning Rate: 0.1
+Batch Size: 32
+Number of Epochs: 35
+
+Test Accuracy (lr=0.1, bs=32, ne=35): 10.00%
+
+Testing 233/252
+Learning Rate: 0.1
+Batch Size: 32
+Number of Epochs: 50
+
+Test Accuracy (lr=0.1, bs=32, ne=50): 10.00%
+
+Testing 234/252
+Learning Rate: 0.1
+Batch Size: 32
+Number of Epochs: 100
+
+Test Accuracy (lr=0.1, bs=32, ne=100): 10.00%
+
+Testing 235/252
+Learning Rate: 0.1
+Batch Size: 64
+Number of Epochs: 5
+
+Test Accuracy (lr=0.1, bs=64, ne=5): 10.00%
+
+Testing 236/252
+Learning Rate: 0.1
+Batch Size: 64
+Number of Epochs: 10
+
+Test Accuracy (lr=0.1, bs=64, ne=10): 10.00%
+
+Testing 237/252
+Learning Rate: 0.1
+Batch Size: 64
+Number of Epochs: 20
+
+Test Accuracy (lr=0.1, bs=64, ne=20): 10.01%
+
+Testing 238/252
+Learning Rate: 0.1
+Batch Size: 64
+Number of Epochs: 35
+
+Test Accuracy (lr=0.1, bs=64, ne=35): 10.00%
+
+Testing 239/252
+Learning Rate: 0.1
+Batch Size: 64
+Number of Epochs: 50
+
+Test Accuracy (lr=0.1, bs=64, ne=50): 10.00%
+
+Testing 240/252
+Learning Rate: 0.1
+Batch Size: 64
+Number of Epochs: 100
+
+Test Accuracy (lr=0.1, bs=64, ne=100): 10.00%
+
+Testing 241/252
+Learning Rate: 0.1
+Batch Size: 128
+Number of Epochs: 5
+
+Test Accuracy (lr=0.1, bs=128, ne=5): 10.00%
+
+Testing 242/252
+Learning Rate: 0.1
+Batch Size: 128
+Number of Epochs: 10
+
+Test Accuracy (lr=0.1, bs=128, ne=10): 10.00%
+
+Testing 243/252
+Learning Rate: 0.1
+Batch Size: 128
+Number of Epochs: 20
+
+Test Accuracy (lr=0.1, bs=128, ne=20): 10.00%
+
+Testing 244/252
+Learning Rate: 0.1
+Batch Size: 128
+Number of Epochs: 35
+
+Test Accuracy (lr=0.1, bs=128, ne=35): 10.00%
+
+Testing 245/252
+Learning Rate: 0.1
+Batch Size: 128
+Number of Epochs: 50
+
+Test Accuracy (lr=0.1, bs=128, ne=50): 10.00%
+
+Testing 246/252
+Learning Rate: 0.1
+Batch Size: 128
+Number of Epochs: 100
+
+Test Accuracy (lr=0.1, bs=128, ne=100): 10.00%
+
+Testing 247/252
+Learning Rate: 0.1
+Batch Size: 256
+Number of Epochs: 5
+
+Test Accuracy (lr=0.1, bs=256, ne=5): 10.00%
+
+Testing 248/252
+Learning Rate: 0.1
+Batch Size: 256
+Number of Epochs: 10
+
+Test Accuracy (lr=0.1, bs=256, ne=10): 10.00%
+
+Testing 249/252
+Learning Rate: 0.1
+Batch Size: 256
+Number of Epochs: 20
+
+Test Accuracy (lr=0.1, bs=256, ne=20): 10.00%
+
+Testing 250/252
+Learning Rate: 0.1
+Batch Size: 256
+Number of Epochs: 35
+
+Test Accuracy (lr=0.1, bs=256, ne=35): 10.00%
+
+Testing 251/252
+Learning Rate: 0.1
+Batch Size: 256
+Number of Epochs: 50
+
+Test Accuracy (lr=0.1, bs=256, ne=50): 10.00%
+
+Testing 252/252
+Learning Rate: 0.1
+Batch Size: 256
+Number of Epochs: 100
+
+Test Accuracy (lr=0.1, bs=256, ne=100): 10.00%
+The best hyperparameters for Adam Optimization are lr=0.0005, bs=128, ne=35 with an accuracy of 72.76

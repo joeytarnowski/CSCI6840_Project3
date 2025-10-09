@@ -254,16 +254,16 @@ def plot_results(name, train_losses, val_losses, train_accs, val_accs):
 
 # Main Script Execution
 if __name__ == "__main__":
-    learning_rate = 0.05
-    batch_size = 16
-    num_epochs = 100
-    name = "SGD"
+    learning_rate = 0.0005
+    batch_size = 128
+    num_epochs = 75
+    name = "Adam"
 
     # Create the model, optimizer, and criterion
     final_model = ComplexCNN()
     trainloader, valloader, testloader, _ = load_and_visualize_data(batch_size=batch_size)
     criterion = LabelSmoothingCrossEntropy(epsilon=0.1)  # Use label smoothing with epsilon=0.1
-    optimizer = optim.SGD(final_model.parameters(), lr=learning_rate, weight_decay=1e-3)
+    optimizer = optim.Adam(final_model.parameters(), lr=learning_rate, weight_decay=1e-3)
     scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=5)
 
     # Train the model
